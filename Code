@@ -23,7 +23,8 @@
     "CHAT_BACKGROUND": ["rgba(8, 12, 48, 0.55)", "rgba(8, 12, 48, 0.55)", "rgba(8, 12, 48, 0.55)"],
     "BACKGROUND_PRIMARY": ["#141A4F", "#141A4F", "#0A0E30"],
     "BACKGROUND_SECONDARY": ["#1B2260", "#1B2260", "#101547"],
-    "BACKGROUND_SECONDARY_ALT": ["#232B78", "#232B78", "#171D5A"],"BACKGROUND_TERTIARY": ["#0E1238", "#0E1238", "#060822"],
+    "BACKGROUND_SECONDARY_ALT": ["#232B78", "#232B78", "#171D5A"],
+    "BACKGROUND_TERTIARY": ["#0E1238", "#0E1238", "#060822"],
     "BACKGROUND_ACCENT": ["#4452D8", "#4452D8", "#4452D8"],
     "BACKGROUND_MOBILE_PRIMARY": ["#141A4F", "#141A4F", "#0A0E30"],
     "BACKGROUND_MOBILE_SECONDARY": ["#1B2260", "#1B2260", "#101547"],
@@ -46,7 +47,7 @@
   },
   "background": {
     "blur": 0,
-    "url": "https://media.licdn.com/dms/image/v2/D4E12AQGxNln4sKkPqw/article-cover_image-shrink_720_1280/B4EZXRm0VOGgAM-/0/1742978370834?e=2147483647&v=beta&t=9bqrAjryHh18QspmCmg-_FpAl33ddSvW_xZKKZfGFtY",
+    "url": "https://preview.redd.it/frutigo-aero-is-just-rewriting-history-v0-3mha9idfaaue1.png?width=1080&crop=smart&auto=webp&s=d68ab69aaa7c1b4d78e1583ae45cad98c2337961",
     "alpha": 1
   }
 }
